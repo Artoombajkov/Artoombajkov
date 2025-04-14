@@ -2,6 +2,12 @@
 
 Менеджер по развитию, аналитик данных и энтузиаст Git. Здесь вы найдёте проекты, в которых я применяю Python, SQL, визуализацию, A/B-тесты и BI-инструменты для реальных задач.
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+
 ## 🔧 Навыки
 - Python (Pandas, Seaborn, Matplotlib)
 - SQL (PostgreSQL, CTE, оконные функции)
