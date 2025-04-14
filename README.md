@@ -1,16 +1,30 @@
-## Hi there 👋
+# ✨ Привет, я Артём Байков
 
-<!--
-**Artoombajkov/Artoombajkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Менеджер по развитию, аналитик данных и энтузиаст Git. Здесь вы найдёте проекты, в которых я применяю Python, SQL, визуализацию, A/B-тесты и BI-инструменты для реальных задач.
 
-Here are some ideas to get you started:
+## 🔧 Навыки
+- Python (Pandas, Seaborn, Matplotlib)
+- SQL (PostgreSQL, CTE, оконные функции)
+- BI и визуализация (Jupyter, Google Sheets, Excel, PDF)
+- A/B-тестирование, исследовательский анализ данных
+- Автоматизация аналитики с помощью Google Таблиц
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Учебные проекты
+📌 [YA_Practicum_projects](https://github.com/Artoombajkov/YA_Practicum_projects) — 9 проектов с Python и SQL: A/B-тесты, EDA, SQL-анализ и ад-хок-отчёты
+
+## 🛠 Реальные мини-проекты
+
+| Проект | Описание | Стек | Формат |
+|--------|----------|------|--------|
+| **CRM-анализ для дизайн-студии** | Google Таблица для отслеживания заказов, KPI, выручки. | Google Sheets, формулы, фильтры | Приватно / по запросу |
+| **Мониторинг цен конкурентов** | Парсинг PDF и сайтов для составления прайс-анализа. | Python, HTML/PDF, Google Sheets | в разработке |
+| **Финансовый планировщик** | Упрощённая бизнес-модель с помесячным планом/фактом. | Excel, Google Sheets | Приватно |
+| **KPI-шаблон для франчайзи** | Шаблон с графиками, план-факт и авторасчётами. | Google Sheets | Приватно |
+
+## 📅 Новые цели
+- Расширить портфолио BI-проектами (Looker Studio, Power BI)
+- Добавить публичные не-код проекты: шаблоны, календари, модели
+
+## 💌 Связь
+- Telegram: [@Artoom_Bajkov](https://t.me/Artoom_Bajkov)
+- GitHub: [@Artoombajkov](https://github.com/Artoombajkov)
